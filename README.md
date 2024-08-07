@@ -1,21 +1,19 @@
-Olá, meu nome é Ariel!! 👋
-Sou um desenvolvedor web apaixonado por criar experiências incríveis na web. 
-Atualmente,estou aprimorando minhas habilidades em JavaScript, TypeScript, HTML e CSS. 
-Acredito no poder da colaboração e estou sempre em busca de novos desafios para crescer e melhorar.
+Hi, I'm Ariel!! 👋
+I'm a web developer passionate about creating amazing web experiences. Currently, I'm honing my skills in JavaScript, TypeScript, HTML, and CSS. I believe in the power of collaboration and am always seeking new challenges to grow and improve.
 
-🚀💻 Minhas Habilidades:
+🚀💻 My Skills:
 
-JavaScript: Construindo soluções dinâmicas e interativas
-TypeScript: Adicionando robustez e escalabilidade ao meu código
-HTML & CSS: Transformando designs em páginas web responsivas e funcionais
+JavaScript: Building dynamic and interactive solutions
+TypeScript: Adding robustness and scalability to my code
+HTML & CSS: Transforming designs into responsive and functional web pages
+📕 What I'm Learning Now:
 
-📕 O que estou aprendendo agora:
+Enhancing skills with modern frameworks like React and Vue
+Continuous improvement in advanced front-end techniques
+Agile development practices and effective team collaboration
 
-Aperfeiçoamento em frameworks modernos como React e Vue
-Melhoria contínua em técnicas avançadas de front-end
-Práticas de desenvolvimento ágil e colaboração eficaz em equipe
-💾 Estou sempre buscando:
+💾 I'm Always Looking For:
 
-Projetos colaborativos e oportunidades de aprendizado
-Desafios que me permitam expandir meu conhecimento e habilidades
-Conectar com outros desenvolvedores e compartilhar conhecimentos
+Collaborative projects and learning opportunities
+Challenges that allow me to expand my knowledge and skills
+Connecting with other developers and sharing insights
